@@ -1,7 +1,6 @@
 # Ex05 Image Carousel
 ## Date :17-03-2026
-## Name : Eshwer M
-## Reg No : 212224040086
+
 
 ## AIM
 To create a Image Carousel using React 
